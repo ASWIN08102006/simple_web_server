@@ -21,6 +21,12 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
+
+![Screenshot 2024-11-25 145229](https://github.com/user-attachments/assets/dd9cb076-9793-416d-b9a7-a17e1ea17243)
+
 # OUTPUT:
+
+![Screenshot 2024-11-25 144721](https://github.com/user-attachments/assets/ff122b30-feb6-445e-8e69-fc36a47cf836)
+
 # RESULT:
 The program for implementing simple webserver is executed successfully.
